@@ -1,0 +1,32 @@
+[
+    {
+        "product_name": "TV",
+        "product_price": "500",
+        "product_description": "This is a TV",
+        "id": 1
+    },
+    {
+        "product_name": "Laptop",
+        "product_price": "1000",
+        "product_description": "This is a laptop",
+        "id": 2
+    }  ,
+    {
+        "product_name": "Mobile",
+        "product_price": "200",
+        "product_description": "This is a mobile",
+        "id": 3
+    },
+    {
+        "product_name": "Tablet",
+        "product_price": "300",
+        "product_description": "This is a tablet",
+        "id": 4
+    },
+    {
+        "product_name": "Camera",
+        "product_price": "400",
+        "product_description": "This is a camera",
+        "id": 5
+    }
+]
